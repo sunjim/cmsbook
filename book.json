@@ -44,7 +44,7 @@
 			"modify_format": "YYYY-MM-DD HH:mm:ss"
 		},
 		"edit-link": {
-			"base": "https://github.com/sunjim/cmsbook/edit/BRANCH/path/to/book",
+			"base": "https://github.com/sunjim/cmsbook/edit/master",
 			"label": "编辑本页面"
 		},
 		"anchor-navigation-ex": {
